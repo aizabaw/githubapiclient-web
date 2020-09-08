@@ -1,0 +1,6 @@
+{
+  "endpointRepos": "http://localhost:8080/yoda/repos",
+  "endpointCommit": "http://localhost:8080/yoda/commits/committers?owner={1}&repo={2}",
+  "endpointCommitStats": "http://localhost:8080/yoda/commits/stats?owner={1}&repo={2}",
+  "urlDisplayLength": 40
+}
